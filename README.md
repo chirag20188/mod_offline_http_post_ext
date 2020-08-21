@@ -9,7 +9,7 @@ Installation
 When ejabberd install with .deb or .rpm installer 
 
 -    cd /opt/ejabberd/.ejabberd-modules/sources/
--    git clone https://github.com/chiraggoti2016/mod_offline_http_post_ext.git; 
+-    git clone https://github.com/chirag20188/mod_offline_http_post_ext; 
 ``` 
 Note : if you want to configure module then fill up file /opt/ejabberd/.ejabberd-modules/sources/mod_offline_http_post_ext.yml: 
 -	auth_token
@@ -21,7 +21,7 @@ Note : if you want to configure module then fill up file /opt/ejabberd/.ejabberd
 When ejabberd install with source - tar.gz
 
 -    cd $HOME/.ejabberd-modules/sources/
--    git clone https://github.com/chiraggoti2016/mod_offline_http_post_ext.git;
+-    git clone https://github.com/chirag20188/mod_offline_http_post_ext;
 ``` 
 Note : if you want to configure module then fill up file  $HOME/.ejabberd-modules/sources/mod_offline_http_post_ext.yml:  
 -	auth_token
